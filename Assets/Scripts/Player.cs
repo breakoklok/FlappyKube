@@ -6,7 +6,7 @@ public class Player : MonoBehaviour
 	// This can be changed in the Inspector window
 	public Vector2 jumpForce = new Vector2(0, 300);
 	int score = 0;
-	
+	//public float acceler=0.1f;
 	// Update is called once per frame
 	void Update ()
 	{
@@ -33,6 +33,7 @@ public class Player : MonoBehaviour
 		{
 			Die();
 		}
+		//acceler += 0.005f;
 	}
 	
 	
