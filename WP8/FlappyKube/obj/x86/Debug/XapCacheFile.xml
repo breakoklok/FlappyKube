@@ -1,0 +1,31 @@
+﻿<xapCache source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\Bin\x86\Debug\FlappyKube_Debug_x86.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="10/30/2014 18:26:21">
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\obj\x86\Debug\FlappyKube.dll" archivePath="FlappyKube.dll" lastWriteTime="10/30/2014 18:26:16" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="6/10/2014 21:53:44" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="6/10/2014 21:53:42" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="6/10/2014 21:53:42" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="6/10/2014 21:53:42" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="6/10/2014 21:53:42" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="6/10/2014 21:53:42" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\Data\mainData" archivePath="Data\mainData" lastWriteTime="10/30/2014 18:25:28" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\Data\managedAssemblies.txt" archivePath="Data\managedAssemblies.txt" lastWriteTime="10/30/2014 18:25:40" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\Data\PlayerConnectionConfigFile" archivePath="Data\PlayerConnectionConfigFile" lastWriteTime="10/30/2014 18:25:28" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\Data\Resources\unity default resources" archivePath="Data\Resources\unity default resources" lastWriteTime="6/11/2014 0:18:02" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\Data\Resources\unity_builtin_extra" archivePath="Data\Resources\unity_builtin_extra" lastWriteTime="10/30/2014 18:25:28" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\Data\sharedassets0.assets" archivePath="Data\sharedassets0.assets" lastWriteTime="10/30/2014 18:25:28" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\Bin\x86\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="10/30/2014 17:50:20" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\Bin\x86\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="6/10/2014 21:53:42" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="6/10/2014 21:53:42" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\Assembly-CSharp-firstpass.dll" archivePath="Assembly-CSharp-firstpass.dll" lastWriteTime="10/30/2014 18:25:39" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\Assembly-CSharp.dll" archivePath="Assembly-CSharp.dll" lastWriteTime="10/30/2014 18:25:39" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\Assembly-UnityScript-firstpass.dll" archivePath="Assembly-UnityScript-firstpass.dll" lastWriteTime="10/30/2014 18:25:39" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\Assembly-UnityScript.dll" archivePath="Assembly-UnityScript.dll" lastWriteTime="10/30/2014 18:25:39" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\Boo.Lang.dll" archivePath="Boo.Lang.dll" lastWriteTime="10/30/2014 18:25:40" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\Players\x86\Release\BridgeInterface.winmd" archivePath="BridgeInterface.winmd" lastWriteTime="6/11/2014 4:43:04" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\UnityEngine.dll" archivePath="UnityEngine.dll" lastWriteTime="10/30/2014 18:25:40" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\Players\x86\Release\UnityPlayer.winmd" archivePath="UnityPlayer.winmd" lastWriteTime="6/11/2014 4:46:18" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\Players\x86\Release\WinRTBridge.dll" archivePath="WinRTBridge.dll" lastWriteTime="6/11/2014 4:43:06" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\WinRTLegacy.dll" archivePath="WinRTLegacy.dll" lastWriteTime="10/30/2014 18:25:40" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\Players\x86\Release\BridgeInterface.dll" archivePath="BridgeInterface.dll" lastWriteTime="6/11/2014 4:43:04" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\Players\x86\Release\UnityPlayer.dll" archivePath="UnityPlayer.dll" lastWriteTime="6/11/2014 4:46:38" />
+  <file source="C:\Users\Himmel\Documents\FlappyKube\WP8\FlappyKube\Bin\x86\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="10/30/2014 17:50:21" />
+</xapCache>
