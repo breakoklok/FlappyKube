@@ -15,6 +15,10 @@ public class Obstacle : MonoBehaviour
 	}
 	void Update()
 	{
-
+		Vector2 screenPosition = Camera.main.WorldToScreenPoint(transform.position);
+		if (screenPosition.x < -60)
+		{
+			Destroy(this.gameObject);
+		}
 	}
 }

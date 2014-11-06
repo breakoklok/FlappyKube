@@ -11,7 +11,7 @@ public class Player : MonoBehaviour
 	void Update ()
 	{
 		// Jump
-		if (Input.GetKeyUp("space"))
+		if (Input.GetKeyUp("space"))//
 		{
 			rigidbody2D.velocity = Vector2.zero;
 			rigidbody2D.AddForce(jumpForce);
@@ -35,8 +35,9 @@ public class Player : MonoBehaviour
 		}
 		//acceler += 0.005f;
 	}
-	
-	
+	void OnTriggerEnter2D (Collider2D other) {
+		score++;
+	}
 	
 	void OnGUI () 
 	{
